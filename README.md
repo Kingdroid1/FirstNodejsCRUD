@@ -6,5 +6,6 @@ Express.js,
 MySQL for DB
 ### How To Run
 Use VS Code or any other editor.<br/>
-Use 'npm install --save' command to install all dependencies
+Use `npm install --save` command to install all dependencies
 ## Thank me later
+Follow me on twitter @twinstarboy
